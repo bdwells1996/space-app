@@ -161,6 +161,8 @@ export default {
     top: 0;
     left: 0;
     z-index: -1;
+    width: 100%;
+    height: 100%;
   }
   }
 }
@@ -171,7 +173,8 @@ export default {
     column-gap: 40px;
     row-gap: 40px;
     padding: 0 42px;
-    margin-top: 40px;
+    max-width: 1440px;
+    margin: 40px auto 0 auto;
 
 }
 
