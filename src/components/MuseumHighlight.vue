@@ -144,6 +144,7 @@ export default {
         margin-bottom: 20px;
         display: flex;
         text-decoration: none;
+        cursor: pointer;
     }
 
     &__news-text{
